@@ -1,0 +1,15 @@
+seek -d test
+seek -d history
+seek -e -d history
+exit
+seek -e -d history
+exit
+seek -e -d history
+warp ..
+seek -d history
+seek -e history
+seek -d -f 
+seek -d -f history
+seek -e -f history ./test/123
+seek -d -e tanish ./test
+exit

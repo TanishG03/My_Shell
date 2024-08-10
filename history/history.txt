@@ -1,0 +1,15 @@
+seek -d history
+seek test
+seek -d test
+exit
+seek history
+exit
+seek -d history
+exit
+seek -d test
+seek -d history
+seek -e -d history
+exit
+seek -e -d history
+exit
+seek -e -d history

@@ -1,0 +1,15 @@
+home
+exit
+home
+exit
+home
+cd
+cd .
+ls
+exit
+home
+exit
+cd ..
+warp .
+exit
+home
