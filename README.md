@@ -1,7 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/76mHqLr5)
-# **Operating Systems and Networks, Monsoon 2023**
-## **Mini_Project_1**
-## **Tanish Gupta | 2022111013 | Ubuntu 22.04 LTS**
+
+## **Tanish Gupta | Ubuntu 22.04 LTS**
 
 
 # Compilation and Exectution Instructions
